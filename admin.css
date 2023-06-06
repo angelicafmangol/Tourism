@@ -1,0 +1,40 @@
+   
+h3 {
+    font-size: 20px;
+    color: black;
+}
+
+.Form{
+    font-size: 20px;
+    padding-left: 40%;
+    background: linear-gradient(to right, beige,gray);
+
+}
+
+.searchbar {
+    align-items: center;
+    justify-content: center;
+    padding-left: 40%;
+    margin: 10px;
+
+}
+
+.municipality h3{
+    padding-left:  50%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.municipality p{
+    width: 90%;
+    padding-left: 15%;
+}
+
+.municipality img{
+    padding: 30px;
+    align-items: center;
+    padding-left: 500px;
+    width: 75%;
+    height: 65%;
+}
